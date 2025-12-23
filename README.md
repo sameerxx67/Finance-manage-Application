@@ -81,6 +81,7 @@ Encrypted user data
 
 
 🧱 System Architecture
+
 Flutter UI
    │
    ├── Provider (State Management)
